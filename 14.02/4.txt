@@ -1,0 +1,24 @@
+Poscitat maksimum
+
+public class Main {
+    public static void main(String[] args) {
+
+        int[] arrayIntRandom = new int[10];
+
+        for (int i = 0; i < arrayIntRandom.length; i++) {
+            arrayIntRandom[i] = (int)(( Math.random() * (10 - 1 + 1) + 1));
+        }
+        int max_array = max (arrayIntRandom);
+        System.out.println("Максимальный элемент массива равен: " + max_array);
+    }
+
+    public static int max(int array[]) {
+        int maximum = 10;
+        for (int i = 0; i < array.length; i++) {
+            if (array[i] > maximum) {
+                maximum = array[i];
+            }
+        }
+        return maximum;
+    }
+}

@@ -1,0 +1,32 @@
+import java.util.InputMismatchException;
+import java.util.Scanner;
+
+public class Main {
+    // PЗадача о поиске минимального и максимального элемента массива
+    // Зададим массив случайных целых чисел от 1 до 10
+    // Реализовать метод поиска max из чисел в массиве и min
+    // Распечатать массив, min и max
+
+
+    public static void main(String[] args)  {
+
+        int [] arrayIntRandom = new int[10];
+        for ( int i = 0; i<arrayIntRandom.length; i++) {
+           arrayIntRandom [i] = (int)((Math.random()*(10-1+1)+1));
+            System.out.println("Zadumannyi massiv :"+arrayIntRandom[i]);
+        }
+        int min = min (arrayIntRandom);
+        System.out.println("Minimalnyi element massiva raven: "+min);
+    }
+    // perebiraem znacheniya massiva i kajdoe sravnivaem so znacheniem minimuma. Esli znachenie
+    // menshe minimuma, to minimum ravno naidennomu znacheniu massiva
+    public static int min (int array[]) {
+        int minimum = 10;
+        for (int i = 0; i < array.length; i++) {
+            if (array[i] <minimum) {
+                minimum = array[i];
+            }
+        }
+        return minimum;
+    }
+}

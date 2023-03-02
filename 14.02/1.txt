@@ -1,0 +1,37 @@
+        // Задать массив случайных целых чисел от 1 до 10 включительно.
+        // Запросить у пользователя произвольное целое число от 1 до 10.
+        // Проверить, встретилось ли введенное число в массиве и сколько раз.
+        // Поиск в массиве реализовать как метод, на входе которого массив и искомое число, на выходе -
+        // какое количество раз оно встретилось.
+        //   ТИП[] имя_массива = new ТИП[размер];
+        // int n = (int)(( Math.random() * (b - a + 1) + a)) - генерирует случайное **целое** число в интервале [a, b]
+        //   a - может быть, b - может быть
+
+import java.util.InputMismatchException;
+import java.util.Scanner;
+
+public class Main {
+
+    public static void main(String[] args)  {
+        Scanner scann = new Scanner(System.in);
+        int [] arrayIntRandom = new int[10];
+        for ( int i = 0; i<arrayIntRandom.length; i++) {
+           arrayIntRandom [i] = (int)((Math.random()*(10-1+1)+1));
+            System.out.println("Zadumannyi massiv :"+arrayIntRandom[i]);
+        }
+        System.out.println("Vvedite celoe chislo ot 1 do 10 ");
+        int nun = scann.nextInt();
+        int c = findNumber (arrayIntRandom,nun);
+
+        System.out.println("Chislo "+nun+" vstretilos v massive "+c+" raz");
+    }
+    public static int findNumber(int array[],int find_num) {
+        int count = 0; // opredelili schetcik
+        for (int i = 0; i< array.length; i++) { // probegaem po vsem elementam massiva
+            if (array[i] == find_num) { // esli v massive naiden iskomyi element
+                count++; // uvelichivaem na 1
+            }
+        }
+        return count;
+    }
+}
