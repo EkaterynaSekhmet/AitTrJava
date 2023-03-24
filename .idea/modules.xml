@@ -3,6 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AitTrJava.iml" filepath="$PROJECT_DIR$/.idea/AitTrJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Animals/Animals.iml" filepath="$PROJECT_DIR$/Animals/Animals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AitTRLessons/Lesson_35/Task_3/HomeWork.iml" filepath="$PROJECT_DIR$/AitTRLessons/Lesson_35/Task_3/HomeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/Lesson35/Lesson35.iml" filepath="$PROJECT_DIR$/lessons/Lesson35/Lesson35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_35HW/Lesson_35HW.iml" filepath="$PROJECT_DIR$/Lesson_35HW/Lesson_35HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_36HW/Lesson_36HW.iml" filepath="$PROJECT_DIR$/Lesson_36HW/Lesson_36HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons37Salary/Lessons37.iml" filepath="$PROJECT_DIR$/Lessons37Salary/Lessons37.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lessons37HW1/Lessons37HW1.iml" filepath="$PROJECT_DIR$/Lessons37HW1/Lessons37HW1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lessons/lesson36.iml" filepath="$PROJECT_DIR$/lessons/lesson36.iml" />
     </modules>
   </component>
 </project>

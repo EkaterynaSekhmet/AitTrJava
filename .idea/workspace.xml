@@ -2,12 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee5abfed-794c-48a5-bd74-3d76f34f9203" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AitTRLessons/Lesson_35/Task_3/HomeWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AitTRLessons/Lesson_35/Task_3/src/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AitTRLessons/Lesson_35/Task_3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_35HW/Lesson_35HW.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_35HW/src/Jewelry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_35HW/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_36HW/Lesson_36HW.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_36HW/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_36HW/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons37HW1/Lessons37HW1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons37HW1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons37Salary/Lessons37.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons37Salary/src/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons37Salary/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons37Salary/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessons37Salary/src/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessonss/code35/code35.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessonss/code35/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessonss/codeCW35/codeCW35.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lessonss/codeCW35/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons1/Lesson35/Lesson35.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons1/lesson36.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AitTrJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AitTrJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,9 +57,63 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/AIT TR Student/Desktop/AitTrJava&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/AIT TR Student/Desktop/AitTrJava&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\AIT TR Student\Desktop\AitTrJava\Lessons" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lessons37" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lesson_36HW" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Animals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="HomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Simple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Simple" />
+      <module name="Animals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Simple" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (3)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,6 +123,18 @@
       <option name="presentableId" value="Default" />
       <updated>1677757500532</updated>
     </task>
+    <task id="LOCAL-00001" summary=" .">
+      <created>1679670572754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679670572754</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" ." />
+    <option name="LAST_COMMIT_MESSAGE" value=" ." />
   </component>
 </project>
